@@ -34,4 +34,7 @@
 - https://github.com/AkshayaNarayana/Commodity-Prices
 - https://github.com/AkshayaNarayana/Skin-Diseases-Prediction
 
-
+## Contact Information
+- Email: akshayanarayana1321@gmail.com
+- LinkedIn:(https://www.linkedin.com/in/akshaya-narayana-8221201ab)
+- GitHub: [github.com/johndoe](https://github.com/johndoe)
