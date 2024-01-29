@@ -37,4 +37,4 @@
 ## Contact Information
 - Email: akshayanarayana1321@gmail.com
 - LinkedIn:(https://www.linkedin.com/in/akshaya-narayana-8221201ab)
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- GitHub: (https://github.com/AkshayaNarayana)
