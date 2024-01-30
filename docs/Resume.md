@@ -27,8 +27,6 @@
 - Python for Data Science - Cognitiveclass, IBM	 (Jun 2020)
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning	 (Aug 2020) 
 
-## Personal Interests
-- I have a passion for baking and exploring new places.
 
 ## Projects
 - https://github.com/AkshayaNarayana/Commodity-Prices
