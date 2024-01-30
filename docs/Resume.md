@@ -3,7 +3,6 @@
 
 ![Akshaya](1.jpg)
 
-## Contact Information
 - Email: akshayanarayana1321@gmail.com
 - LinkedIn:https://www.linkedin.com/in/akshaya-narayana-8221201ab
 - GitHub:https://github.com/AkshayaNarayana
