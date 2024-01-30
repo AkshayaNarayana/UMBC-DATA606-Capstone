@@ -3,6 +3,11 @@
 
 ![Akshaya](1.jpg)
 
+## Contact Information
+- Email: akshayanarayana1321@gmail.com
+- LinkedIn:https://www.linkedin.com/in/akshaya-narayana-8221201ab
+- GitHub:https://github.com/AkshayaNarayana
+
 ## Skills
 - Programming: Python, Java, SQL, C.
 - Software: Anaconda Navigator, Jupyter Notebook, Microsoft Office(Word, Excel, and PowerPoint), MySQL Workbench.
@@ -32,7 +37,3 @@
 - https://github.com/AkshayaNarayana/Commodity-Prices
 - https://github.com/AkshayaNarayana/Skin-Diseases-Prediction
 
-## Contact Information
-- Email: akshayanarayana1321@gmail.com
-- LinkedIn:https://www.linkedin.com/in/akshaya-narayana-8221201ab
-- GitHub:https://github.com/AkshayaNarayana
