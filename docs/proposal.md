@@ -28,9 +28,9 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 - Time period: The data covers job postings from September 2021 to September 23.
 - What does each row represent? Each row represents a unique job posting.
 - Data dictionary
---Columns name
---Data type
---Defition
---Potential values (for categorical valuables, what are the categories?)
-Which variable/column will be your target/label in your ML model?
-Which variables/columns may be selected as features/predictors for your ML models?
+- -Columns name
+- -Data type
+- -Defition
+- -Potential values (for categorical valuables, what are the categories?)
+- Which variable/column will be your target/label in your ML model?
+- Which variables/columns may be selected as features/predictors for your ML models?
