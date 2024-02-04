@@ -33,7 +33,7 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
   - Definition: A unique identifier for each job posting.
    
   #### 2. Experience:
-  - Data Type:object 
+  - Data Type: object 
   - Definition: The required or preferred years of experience for the job.
   - Potential Values: Various experience ranges (e.g., "5 to 8 Years").
     
@@ -81,7 +81,6 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
   #### 12. Preference:
   - Data Type: object 
   - Definition: Special preferences or requirements for applicants.
-  - Potential Values: Different preferences (e.g., "Male", "Both").
 
   #### 13. Contact Person:  
   - Data Type: object 
@@ -128,6 +127,10 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
   - Definition: A brief overview of the company's background and mission.
  
     
-  - Potential values (for categorical valuables, what are the categories?)
 - Which variable/column will be your target/label in your ML model?
+  Job Posting Date will be the target for timely trends whereas skills will be the target for skill demand analysis
+  
 - Which variables/columns may be selected as features/predictors for your ML models?
+  Factors like "Location," "Job Title," and "Company" to look at how seasonality and trends change in different places, job titles, or 
+  companies. Different "Role," "Industry," and "Experience" variables can be used to see how skill needs change for various roles, 
+  businesses, and levels of experience.
