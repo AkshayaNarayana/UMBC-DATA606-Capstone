@@ -1,9 +1,9 @@
 # 1. Timely Trends and Skill Analysis of Job Postings
-- Project Title: Timely Trends and Skill Analysis of Job Postings
-- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-- Author Name: Akshaya Narayana
-- GitHub::https://github.com/AkshayaNarayana
-- LinkedIn:https://www.linkedin.com/in/akshaya-narayana-8221201ab
+- **Project Title:** Timely Trends and Skill Analysis of Job Postings
+- **Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang**
+- **Author Name:** Akshaya Narayana
+- **GitHub:** https://github.com/AkshayaNarayana
+- **LinkedIn:** https://www.linkedin.com/in/akshaya-narayana-8221201ab
 
 # 2. Background
 ### What is it about?
@@ -22,13 +22,20 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 4. How do skill requirements vary among different job roles and industries?
 
 # 3. Dataset
-- Data source: https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset/data
-- Data size: 1.74 GB
-- Data shape: The dataset contains 1615940 rows and 23 columns.
-- Time period: The data covers job postings from September 2021 to September 23.
-- What does each row represent? Each row represents a unique job posting.
-- Data dictionary
-  #### 1. Job Id 
+- **Data source:** https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset/data
+
+- **Data size:** 1.74 GB
+
+- **Data shape:** The dataset contains 1615940 rows and 23 columns.
+
+- **Time period:** The data covers job postings from September 2021 to September 23.
+
+- **What does each row represent?**
+
+  Each row represents a unique job posting.
+  
+- **Data dictionary**
+  ##### 1. Job Id 
   - Data type: int64 
   - Definition: A unique identifier for each job posting.
    
@@ -127,10 +134,13 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
   - Definition: A brief overview of the company's background and mission.
  
     
-- Which variable/column will be your target/label in your ML model?
-  Job Posting Date will be the target for timely trends whereas skills will be the target for skill demand analysis
+- **Which variable/column will be your target/label in your ML model?**
   
-- Which variables/columns may be selected as features/predictors for your ML models?
-  Factors like "Location," "Job Title," and "Company" to look at how seasonality and trends change in different places, job titles, or 
-  companies. Different "Role," "Industry," and "Experience" variables can be used to see how skill needs change for various roles, 
+  Job Posting Date will be the target for timely trends whereas skills will be the target for skill demand analysis
+
+  
+- **Which variables/columns may be selected as features/predictors for your ML models?**
+
+  Factors like Location, Job Title, and Company to look at how seasonality and trends change in different places, job titles, or 
+  companies. Different Role, Industry, and Experience variables can be used to see how skill needs change for various roles, 
   businesses, and levels of experience.
