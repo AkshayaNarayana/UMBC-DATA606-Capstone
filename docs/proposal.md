@@ -1,4 +1,4 @@
-# 1. Timely Trends and Skill Analysis of Job Postings
+# 1. Timely Trends of Job Postings
 - **Project Title:** Timely Trends and Skill Analysis of Job Postings
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang**
 - **Author Name:** Akshaya Narayana
@@ -136,11 +136,9 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
     
 - **Which variable/column will be your target/label in your ML model?**
   
-  Job Posting Date will be the target for timely trends whereas skills will be the target for skill demand analysis
+  The Number of Job Openings will be the target for timely trends.
 
   
 - **Which variables/columns may be selected as features/predictors for your ML models?**
 
-  Factors like Location, Job Title, and Company to look at how seasonality and trends change in different places, job titles, or 
-  companies. Different Role, Industry, and Experience variables can be used to see how skill needs change for various roles, 
-  businesses, and levels of experience.
+  Factors like the date when the job posting was made could capture temporal patterns and seasonality in job openings.
