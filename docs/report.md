@@ -154,8 +154,7 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 - For predictive analytics, we employed the ARIMA model and the auto ARIMA model to forecast job openings. ARIMA, which stands for AutoRegressive Integrated Moving Average, is well-suited for time series forecasting, especially for datasets with trends and seasonality.
 - Split the data into training and testing sets, using the first part for training and the last 30 entries for testing, allowing validation of unseen data.
 - Conducted the Augmented Dickey-Fuller (ADF) test to check for stationarity in the time series. The initial p-value was 0.899, indicating non-stationarity. Then differenced the data to make it stationary, achieving a p-value of approximately 1.7296×10⁻²⁰, indicating stationarity after differencing.
-- Plotted the AutoCorrelation Function (ACF) and Partial AutoCorrelation Function (PACF) to determine the orders of the ARIMA model.
-- Trained the ARIMA model with specified orders derived from the ACF and PACF plots.
+- Plotted the AutoCorrelation Function (ACF) and Partial AutoCorrelation Function (PACF) to determine the orders for training the ARIMA model.
 - Used the trained ARIMA model to forecast the test data and visualize the results.
 - Used statsmodels for time series analysis and ARIMA model implementation and the pmdarima library's auto_arima function to automatically select the best ARIMA model parameters.
 - Saved the trained ARIMA model using the pickle library to facilitate future predictions without retraining.
