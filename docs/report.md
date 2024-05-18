@@ -150,3 +150,18 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 - Utilized Matplotlib and Seaborn to generate visual representations to analyze the distribution and patterns of job vacancies over some time. This involved the use of bar plots to represent annual job opportunities and line plots to represent monthly job vacancies.
 - Calculated the number of roles for each date by grouping the data according to the 'Job Posting Date' and 'Role', and then combined the counts to obtain the total number of job openings per date.
 
+# 5. Model Training
+- For predictive analytics, we employed the ARIMA model and the auto ARIMA model to forecast job openings. ARIMA, which stands for AutoRegressive Integrated Moving Average, is well-suited for time series forecasting, especially for datasets with trends and seasonality.
+- Split the data into training and testing sets, using the first part for training and the last 30 entries for testing, allowing validation of unseen data.
+- Conducted the Augmented Dickey-Fuller (ADF) test to check for stationarity in the time series. The initial p-value was 0.899, indicating non-stationarity. Then differenced the data to make it stationary, achieving a p-value of approximately 1.7296×10⁻²⁰, indicating stationarity after differencing.
+- Plotted the AutoCorrelation Function (ACF) and Partial AutoCorrelation Function (PACF) to determine the orders of the ARIMA model.
+- Trained the ARIMA model with specified orders derived from the ACF and PACF plots.
+- Used the trained ARIMA model to forecast the test data and visualize the results.
+- Used statsmodels for time series analysis and ARIMA model implementation and the pmdarima library's auto_arima function to automatically select the best ARIMA model parameters.
+- Saved the trained ARIMA model using the pickle library to facilitate future predictions without retraining.
+- Development and model training were carried out on a local machine using Jupyter Notebooks and on Google Colab for leveraging computational resources.
+
+# 6. Application of the Trained Models
+
+# 7. Conclusion
+
