@@ -158,11 +158,11 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 - Used the trained ARIMA model to forecast the test data and visualize the results.
 - Saved the trained ARIMA model using the pickle library to facilitate future predictions without retraining.
 - Python Packages used:
-- - pandas for data manipulation and analysis.
-- - statsmodels for time series analysis and ARIMA model implementation
-- - pmdarima library's auto_arima function to automatically select the best ARIMA model parameters.
-- - matplotlib for plotting data and diagnostics.
-- - pickle for saving and loading trained models. 
+  - pandas for data manipulation and analysis.
+  - statsmodels for time series analysis and ARIMA model implementation
+  - pmdarima library's auto_arima function to automatically select the best ARIMA model parameters.
+  - matplotlib for plotting data and diagnostics.
+  - pickle for saving and loading trained models. 
 - Development and model training were carried out on a local machine using Jupyter Notebooks and on Google Colab for leveraging computational resources.
 
 # 6. Application of the Trained Models
