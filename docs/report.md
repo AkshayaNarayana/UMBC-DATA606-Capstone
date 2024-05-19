@@ -170,3 +170,7 @@ Developed a web application that allows users to interact with the trained model
 - Streamlit:
   
 # 7. Conclusion
+- The project focused on analyzing job posting data to forecast future job openings using ARIMA and auto ARIMA models. Through rigorous data preprocessing, model selection, and validation, we developed predictive models that can assist in workforce planning. The models were validated on unseen data and saved for future use.
+- Limitations such as the reliance on historical data patterns and potential data quality issues, this work provides a valuable tool for anticipating labor market trends.
+- Lessons learned emphasize the importance of data preprocessing, model selection, and validation in time series analysis. Continuous model refinement and evaluation are crucial for maintaining accurate predictions.
+- Future improvements could involve integrating external factors and exploring advanced modeling techniques to enhance predictive accuracy and robustness.
