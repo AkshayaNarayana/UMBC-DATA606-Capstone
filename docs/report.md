@@ -156,11 +156,17 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 - Conducted the Augmented Dickey-Fuller (ADF) test to check for stationarity in the time series. The initial p-value was 0.899, indicating non-stationarity. Then differenced the data to make it stationary, achieving a p-value of approximately 1.7296×10⁻²⁰, indicating stationarity after differencing.
 - Plotted the AutoCorrelation Function (ACF) and Partial AutoCorrelation Function (PACF) to determine the orders for training the ARIMA model.
 - Used the trained ARIMA model to forecast the test data and visualize the results.
-- Used statsmodels for time series analysis and ARIMA model implementation and the pmdarima library's auto_arima function to automatically select the best ARIMA model parameters.
 - Saved the trained ARIMA model using the pickle library to facilitate future predictions without retraining.
+- Python Packages used:
+- - pandas for data manipulation and analysis.
+- - statsmodels for time series analysis and ARIMA model implementation
+- - pmdarima library's auto_arima function to automatically select the best ARIMA model parameters.
+- - matplotlib for plotting data and diagnostics.
+- - pickle for saving and loading trained models. 
 - Development and model training were carried out on a local machine using Jupyter Notebooks and on Google Colab for leveraging computational resources.
 
 # 6. Application of the Trained Models
-
+Developed a web application that allows users to interact with the trained model. 
+- Streamlit:
+  
 # 7. Conclusion
-
