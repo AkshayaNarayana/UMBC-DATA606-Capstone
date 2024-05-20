@@ -171,7 +171,8 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 
 # 6. Application of the Trained Models
 Developed a web application that allows users to interact with the trained model. 
-- Streamlit: <img src="docs/Images/application.png" style="display: block; margin-left: auto; margin-right: auto; width: 400px; height: 200px;">
+- Streamlit:
+![application.png](https://github.com/AkshayaNarayana/UMBC-DATA606-Capstone/blob/main/docs/Images/application.png)
   
 # 7. Conclusion
 - The project focused on analyzing job posting data to forecast future job openings using ARIMA and auto ARIMA models. Through rigorous data preprocessing, model selection, and validation, we developed predictive models that can assist in workforce planning. The models were validated on unseen data and saved for future use.
