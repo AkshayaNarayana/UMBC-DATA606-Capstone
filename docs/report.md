@@ -171,7 +171,7 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 
 # 6. Application of the Trained Models
 Developed a web application that allows users to interact with the trained model. 
-- Streamlit:
+- The Streamlit application is designed to forecast job openings using time series analysis techniques. It utilizes the ARIMA  model and its automated counterpart, auto ARIMA, to predict future job vacancies based on historical data trends. The app allows users to interactively select a date and obtain the predicted number of job openings for that date. The app is deployed on Streamlit Cloud, ensuring easy access and scalability for users.
 ![application.png](https://github.com/AkshayaNarayana/UMBC-DATA606-Capstone/blob/main/docs/Images/application.png)
   
 # 7. Conclusion
