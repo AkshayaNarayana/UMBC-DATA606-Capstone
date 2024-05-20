@@ -151,7 +151,8 @@ Anyone involved in the hiring process, from recruiters to lawmakers, has a veste
 - Transformed the 'Job Posting Date' column into a datetime format to facilitate time-based analysis.
 - Utilized Matplotlib and Seaborn to generate visual representations to analyze the distribution and patterns of job vacancies over some time. This involved the use of bar plots to represent annual job opportunities and line plots to represent monthly job vacancies.
 - Calculated the number of roles for each date by grouping the data according to the 'Job Posting Date' and 'Role', and then combined the counts to obtain the total number of job openings per date.
-![Openings.png](https://github.com/AkshayaNarayana/UMBC-DATA606-Capstone/blob/main/docs/Images/Year%20Openings.png)
+![YearOpenings.png](https://github.com/AkshayaNarayana/UMBC-DATA606-Capstone/blob/main/docs/Images/Year%20Openings.png)
+![MonthOpenings.png](https://github.com/AkshayaNarayana/UMBC-DATA606-Capstone/blob/main/docs/Images/Month%20Openings.png)
 
 # 5. Model Training
 - For predictive analytics, we employed the ARIMA model and the auto ARIMA model to forecast job openings. ARIMA, which stands for AutoRegressive Integrated Moving Average, is well-suited for time series forecasting, especially for datasets with trends and seasonality.
