@@ -5,7 +5,7 @@
 - **GitHub:** https://github.com/AkshayaNarayana
 - **LinkedIn:** https://www.linkedin.com/in/akshaya-narayana-8221201ab
 - **PowerPoint Presentation:** https://github.com/AkshayaNarayana/UMBC-DATA606-Capstone/blob/main/docs/Capstone_Akshaya.pptx
-- **Youtube Video:**
+- **Youtube Video:**https://youtu.be/oOgapn8aQTI
 
 # 2. Background
 ### What is it about?
